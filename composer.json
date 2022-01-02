@@ -1,11 +1,11 @@
 {
     "name": "inculcate/view",
-    "description": "The inculcate outgood components.",
+    "description": "The inculcate softflies components.",
     "license": "MIT",
     "homepage": "https://softflies.com",
     "support": {
-        "issues": "https://github.com/outgood/framework/issues",
-        "source": "https://github.com/outgood/framework"
+        "issues": "https://github.com/softflies/framework/issues",
+        "source": "https://github.com/softflies/framework"
     },
     "authors": [
         {
